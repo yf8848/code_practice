@@ -21,5 +21,7 @@ func main() {
 
 	//TestEmptySlice()
 
-	TestPanic()
+	//TestPanic()
+
+	TestDerferScope()
 }
